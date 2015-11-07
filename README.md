@@ -1,6 +1,6 @@
-![](readme-media/branding-guidelines-title.png)
-
 ![](readme-media/summary-logo.png)
+
+![](readme-media/branding-guidelines-title.png)
 
 ![](readme-media/summary.png)
 
