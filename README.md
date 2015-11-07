@@ -1,40 +1,42 @@
-![](http://i.imgur.com/y4v4GFb.png)
+![](readme-media/branding-guidelines-title.png)
 
-![](http://i.imgur.com/448eCIp.png)
+![](logos/cryptid-profile-picture.png)
 
----
-
-![](http://imgur.com/9IbSiJd.png)
-
-![](http://imgur.com/pXzMjWL.png)
-
-![](http://imgur.com/ZQWcPdG.png)
-
-![](http://imgur.com/6CcO0yK.png)
-
-![](http://imgur.com/r7glpv8.png)
-
-![](http://imgur.com/2paTXRc.png)
-
-![](http://i.imgur.com/mWl8J2o.png)
+![](readme-media/summary.png)
 
 ---
 
-![](http://imgur.com/KmFZiJ5.png)
+![](readme-media/logo-guidelines-title.png)
 
-![](http://imgur.com/3WciDHD.png)
+![](readme-media/logo-space.png)
 
-![](http://i.imgur.com/h5Jomxt.png)
+![](readme-media/logo-light.png)
 
-![](http://i.imgur.com/o6sjN03.png)
+![](readme-media/logo-dark.png)
 
-![](http://i.imgur.com/SeHKNpY.png)
+![](readme-media/logo-sm.png)
+
+![](readme-media/logo-seal.png)
+
+![](readme-media/logo-nots.png)
 
 ---
 
-![](http://imgur.com/OaElH3T.png)
+![](readme-media/color-guidelines-title.png)
 
-![](http://i.imgur.com/Pvu7PKV.png)
+![](readme-media/white.png)
 
-![](http://i.imgur.com/V9u8nlM.png)
+![](readme-media/black.png)
+
+![](readme-media/base-red.png)
+
+![](readme-media/base-blue.png)
+
+---
+
+![](readme-media/typeface-guidelines-title.png)
+
+![](readme-media/font-noodle.png)
+
+![](readme-media/font-gravity.png)
 
