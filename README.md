@@ -1,6 +1,6 @@
 ![](readme-media/branding-guidelines-title.png)
 
-![](logos/cryptid-profile-picture.png)
+![](readme-media/summary-logo.png)
 
 ![](readme-media/summary.png)
 
